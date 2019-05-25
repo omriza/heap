@@ -3,6 +3,9 @@
 ## Agenda
 This session is intended to provide a quick taste of Go
 
+## Who uses go
+Add YouTube, Twitter, Apple
+
 ## Go Tools
 
 ### go get
