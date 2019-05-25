@@ -2,6 +2,7 @@
 
 ## Agenda
 This session is intended to provide a quick taste of Go
+Take some stuff from [here](https://docs.google.com/presentation/d/1y0s8O0aApHqxG1vzV__a7mAXN4QiG4gyuGcjzpKGSqg/edit#slide=id.g6451df5fe_1_38)
 
 ## Who uses go
 Add YouTube, Twitter, Apple
